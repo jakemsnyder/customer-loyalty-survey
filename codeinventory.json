@@ -1,0 +1,15 @@
+﻿{
+  "name": "GSA Customer Loyalty Survey",
+  "description": "R script used to clean and anonymize data for the Customer Loyalty Survey. Raw source data stored in Salesforce, other files needed for cleaning are stored in GSA Google Drive.",
+  "license": null,
+  "openSourceProject": 1,
+  "governmentWideReuseProject": 1,
+  "tags": [
+    "GSA",
+    "customer",
+    "feedback"
+  ],
+  "contact": {
+    "email": "jake.snyder@gsa.gov"
+  }
+}
