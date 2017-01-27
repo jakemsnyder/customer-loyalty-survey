@@ -1,12 +1,12 @@
 #Main files pulled from Salesforce
-#CLS16 - Q&A https://fas.my.salesforce.com/00Ot0000000hXgn
-#CLS15 Data Pull https://fas.my.salesforce.com/00Ot0000000Og8g
-#CLS15 Question Mapping https://fas.my.salesforce.com/00Ot0000000Og8b
+#CLS16
+#CLS15 Data Pull
+#CLS15 Question Mapping
 
 #Other files pulled from OCE google drive, gathered from the FAS program offices
-#AAS Servicing Region https://drive.google.com/open?id=0B2FEzg5RjHNdN0pvM2U0V3NseEk
-#CLSComments https://drive.google.com/open?id=0B2FEzg5RjHNdaVlLcDBOMmV2aGc
-#zip_code_database https://drive.google.com/open?id=0B2FEzg5RjHNdT1dSN1VmUUF2LU0
+#AAS Servicing Region
+#CLSComments
+#zip_code_database
 
 
 setwd("/Users/jakesnyder/Documents/CLS")
